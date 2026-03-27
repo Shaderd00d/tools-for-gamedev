@@ -36,7 +36,7 @@ An ever-growing list of tools, assets and resources for game development. This c
     + [Middleware](#middleware)
   * [Music](#music)
     + [DAWs](#daws)
-    + [Sequencer](#sequencer)
+    + [Sequencer / Tracker](#sequencer--tracker)
   * [SFX](#sfx)
 - [Assets](#assets)
     + [Various](#various-1)
@@ -87,9 +87,11 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Milanote](https://milanote.com/) (web-based collaborative Whiteboard)
 * [Figma](http://figma.com) (web-based Vector Graphics Editor)
   - [FigJam](https://www.figma.com/figjam/) (web-based collaborative Whiteboard)
+* [WBO](https://wbo.ophir.dev/) (web-based FOSS Whiteboard)
 * [TLDraw](https://www.tldraw.com/) (web-based collaborative drawing)
 * [Magma](https://magma.com/) (web-based collaborative drawing)
 * [Excalidraw](https://excalidraw.com/) (web-based collaborative drawing)
+* [Drawpile](https://web.drawpile.net/) (web-based collaborative drawing)
 * [draw.io](https://www.drawio.com/) (web-based Diagram Tool)
 * [Storyboarder](https://wonderunit.com/storyboarder/) (Storyboard Prototyping Tool)
 * [Lorien](https://github.com/mbrlabs/Lorien) (Whiteboard Tool)
@@ -118,10 +120,11 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Pop](https://pop.com/) (screen sharing with remote cursor access)
 * [Parsec](https://parsec.app/) (remote work/play together)
 
+
 ## Version Control
 ### Git
 * [Github Desktop](https://desktop.github.com/download/) (GUI for git)
-* [git bash](https://gitforwindows.org/) (Terminal for windows, packaged e.g. with git)
+* [git bash](https://gitforwindows.org/) (Terminal for Windows, packaged e.g. with git)
 * [Github](https://github.com/) (Hoster for git repositories)
 * [Gitlab](https://about.gitlab.com/) (Hoster for git repositories)
 
@@ -135,7 +138,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [OBS Studio](https://obsproject.com/) (cross-platform streaming/screen capture)
 * [ShareX](https://getsharex.com/) (win-only screen capture)
 * [ScreenToGif](https://www.screentogif.com/) (screen, webcam and sketchboard with integrated editor, optimized GIFs)
-* [Peek](https://github.com/phw/peek) (gif screen recorder for linux)
+* [Peek](https://github.com/phw/peek) (gif screen recorder for Linux)
 * [EZGif](http://ezgif.com/) (online GIF animation editor and maker)
 * [GIFCam](http://blog.bahraniapps.com/gifcam/) (recorder that outputs optimized GIFs)
 * [LightShot](https://app.prntscr.com/en/index.html) (screenshot tool for Windows/Mac)
@@ -170,10 +173,12 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Game UI Database](https://www.gameuidatabase.com/) (collection of UI examples for games)
 * [Interface Ingame](https://interfaceingame.com/) (collection of UI examples for games)
 * [Colour Contrast](https://colourcontrast.cc/) (contrast analyzer for text & background)
+* [Color Oracle](http://colororacle.org) (color blindness testing)
 * [Chroma](https://github.com/ubisoft/Chroma) (engine-agnostic color blindness simulation tool by Ubisoft)
 * [Leonardo](https://leonardocolor.io/#) (accessible color systems)
 
 ## Fonts
+* [GLIF](https://github.com/MFEK/glif) (FOSS Glyph Editor for making Fonts)
 * [Snowb](https://snowb.org/) (Bitmap Font Generator)
 * [Pixel Font](https://yal.cc/tools/pixel-font/) (Pixel Font Generator)
 
@@ -187,7 +192,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Spacescape](http://alexcpeterson.com/spacescape/) (Skyboxes)
 * [PhotoPea](https://www.photopea.com/) (web-based PSD editor)
 * [Paint.NET](http://www.getpaint.net/) (Image Editor, Windows only)
-* [Affinity Photo / Designer](https://affinity.serif.com/de/) ($${\color{red}paid}$$)
+* [Affinity Studio](https://www.affinity.studio/) (Creative Suite for Windows & Mac)
 
 ### Pixelart
 * [Aseprite](https://www.aseprite.org/) (pay once or compile yourself)
@@ -267,8 +272,8 @@ An ever-growing list of tools, assets and resources for game development. This c
 ## Colors / Color Palettes
 * [Lospec](https://lospec.com/palette-list) (various palettes, i.e. for pixel art)
 * [Paletton](http://paletton.com/) (color schemes)
+* [Rickrack](https://github.com/eigenmiao/Rickrack) (FOSS color palette generator)
 * [Color Palettes](https://meodai.github.io/poline/) (esoteric color palette tool)
-* [Color Oracle](http://colororacle.org) (color blindness testing)
 * [Color Blender](https://meyerweb.com/eric/tools/color-blend/) (blend two colors)
 
 ## Various
@@ -288,14 +293,15 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [DEM.Net Elevation API](https://elevationapi.com/) (Terrain Generator)
 * [Fractorium](http://fractorium.com/) (Flame Fractal Generator)
 * [Spacescape](http://alexcpeterson.com/spacescape/) (Space Skybox Generator)
+* [SilkyShark](https://github.com/stoicshark/silkyshark) (FOSS Mouse/Tablet stabilizer for Windows)
 
 # Audio
 ## General
-* [MuseScore](https://musescore.org/de) (Notation Software)
+* [MuseScore](https://musescore.org/de) (Notation tool)
+* [LilyPond](https://musescore.org/de) (FOSS Notation tool)
 * [SynthFont](http://www.synthfont.com)(Midi Renderer)
 * [GXSCC](http://www.geocities.co.jp/SiliconValley-SanJose/8700/P/GsorigE.htm) (Midi Renderer)
 * [Abundant Music](https://pernyblom.github.io/abundant-music/index.html) (web-based Procedural Music Generator, needs a Midi Renderer)
-* [Milkytracker](http://www.milkytracker.org/) (Tracker) 
 * [Soundation](https://soundation.com/) (web-based Music Collaboration Tool)
 * [SoundOfText](https://soundoftext.com/) (Text-To-Speech)
 * [SoundThread](https://github.com/j-p-higgins/SoundThread) (node-based Renderer for "CDP" Audio Tools)
@@ -328,18 +334,25 @@ An ever-growing list of tools, assets and resources for game development. This c
 ### DAWs
 * [LMMS](https://lmms.io/) (FOSS DAW)
 * [Ardour](https://ardour.org/) (DAW, FOSS / pay once or compile yourself)
-* [SunVox](https://warmplace.ru/soft/sunvox/) (Modular Synthesizer and Tracker System. Free for desktop)
 * [Cakewalk](https://www.bandlab.com/products/cakewalk) by Bandlab (Digital audio workstation - formerly SONAR)
-* [musagi](https://www.drpetter.se/project_musagi.html) 
+* [musagi](https://www.drpetter.se/project_musagi.html)
+* [ZRythm](https://www.zrythm.org)(FOSS DAW, still WIP)
 * [Reaper](https://www.reaper.fm/) (DAW, $${\color{red}paid}$$)
 * [Ableton Live](https://ableton.com) (DAW, $${\color{red}paid}$$)
 
-### Sequencer
+### Sequencer / Tracker
 * [Bosca Ceoil Blue](https://yurisizov.itch.io/boscaceoil-blue) (Step Sequencer, focused on 8bit music, made in Godot / GDSiON)
 * [helio.fm](https://helio.fm/) (Sequencer with VST support)
 * [BeepBox](https://beepbox.co) (web-based Step Sequencer for sketching and sharing melodies, Chiptune)
 * [Otomata](https://marwahaha.github.io/otomata/) (web-based Procedural Music Generator)
-* [Pixitracker](http://www.warmplace.ru/soft/pixitracker/) (Chiptune Sequencer)
+* [BassoonTracker](https://www.stef.be/bassoontracker/) (web-based Tracker)
+* [Pixitracker](http://www.warmplace.ru/soft/pixitracker/) (Chiptune Tracker)
+* [SunVox](https://warmplace.ru/soft/sunvox/) (Modular Synthesizer and Tracker System. Free for desktop)
+* [OpenMPT](https://openmpt.org/) (FOSS Tracker)
+* [MilkyTracker](https://milkytracker.org/) (FOSS Tracker)
+* [Schism Tracker](https://schismtracker.org/) (FOSS Tracker)
+* [klystrack](https://kometbomb.github.io/klystrack/) (FOSS Tracker)
+* [FamiTracker](http://famitracker.com/) (Chiptune Tracker for Windows)
 
 ## SFX
 * [BFXR](http://bfxr.net/) (SFX Generator)
