@@ -72,12 +72,14 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Workflowy](https://workflowy.com/) - (web-only graphs and task board)
 * [YouTrack](https://www.jetbrains.com/youtrack/) (Project Management)
 * [Linear](https://linear.app) (Project Management)
+* [ProjectLibre](https://projectlibre.com/projectlibre-desktop/) (Project Management)
 
 ## Game Design & Organization
 * [Nuclino GDD Template](https://www.nuclino.com/articles/game-design-document-template) (GDD Template)
 * [UNC GDD Template](https://wwwx.cs.unc.edu/~pozefsky/seriousgames/NewDesignDocTemplate.pdf) (Serious GDD Template)
 * [One Page Design Document](https://docs.google.com/document/d/1npEvqcMZSp0IX2hWw6Qq0WqJVfmVqS_YOGFWnnwfh-A/) (single page GDD Template)
 * [Barrels GDD Template](https://artsybarrels.itch.io/simple-gdd-template) (GDD Template based on the One Page Design Document)
+* [GDD Wizard](https://sneerfulark.itch.io/gdd-wizard) (wizard-based GDD creation)
 * [Obsidian](https://obsidian.md/) (extensible MD-based note/writing tool)
 * [Notion](https://www.notion.com/) (collaborative note/writing tool)
 * [PadCrafter](https://www.padcrafter.com/index.php) (control scheme builder)
@@ -88,6 +90,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Figma](http://figma.com) (web-based Vector Graphics Editor)
   - [FigJam](https://www.figma.com/figjam/) (web-based collaborative Whiteboard)
 * [WBO](https://wbo.ophir.dev/) (web-based FOSS Whiteboard)
+* [cacoo](https://nulab.com/cacoo/) (web-based collaborative Whiteboard)
 * [TLDraw](https://www.tldraw.com/) (web-based collaborative drawing)
 * [Magma](https://magma.com/) (web-based collaborative drawing)
 * [Excalidraw](https://excalidraw.com/) (web-based collaborative drawing)
@@ -95,7 +98,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [draw.io](https://www.drawio.com/) (web-based Diagram Tool)
 * [Storyboarder](https://wonderunit.com/storyboarder/) (Storyboard Prototyping Tool)
 * [Lorien](https://github.com/mbrlabs/Lorien) (Whiteboard Tool)
-* [Machinations](https://machinations.io) (web-based software for running simulations against a game design.)
+* [Machinations](https://machinations.io) (web-based software for running simulations against a game design)
 * [#randomicon](https://dannymator.itch.io/randomicon) (random icon generator for idea generation)
 * [Onym](https://guide.onym.co) (a set of tools for naming stuff)
 
@@ -119,7 +122,6 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [JSFiddle](http://jsfiddle.net/) (collaborative tool for web projects)
 * [Pop](https://pop.com/) (screen sharing with remote cursor access)
 * [Parsec](https://parsec.app/) (remote work/play together)
-
 
 ## Version Control
 ### Git
@@ -155,6 +157,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Github Gists](http://gist.github.com/) (collection of useful scripts)
 * [Regexr](https://regexr.com/) (Regex)
 * [Regex101](https://regex101.com) (Regex)
+* [Debuggex](https://www.debuggex.com/) (tool for debugging Regex)
 * [GraphToy](https://graphtoy.com/) (web-based visualizer for mathematical graph functions)
 * [RPTools.net](http://www.rptools.net/) (Board game tools)
 * [Strange Eons](http://www.cgjennings.ca/eons/index.html) (Tabletop/Card Games Design Tool)
@@ -165,9 +168,10 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Gamepad Tester](https://hardwaretester.com/gamepad) (web-based Gamepad Tester)
 * [KdenLive](https://kdenlive.org/de/) (Video Editor)
 * [Image Color Summarizer](https://mk.bcgsc.ca/color-summarizer/) (describes colors in images)
-* [Desmos](https://www.desmos.com/) (web-based collection of Math tools)
-* [WolframAlpha](https://www.wolframalpha.com/) (web-based Math knowledge base / solver)
-* [Noclip](https://noclip.website/) (Inspection Tool for levels of commercial games)
+* [Desmos](https://www.desmos.com/) (web-based collection of math tools)
+* [WolframAlpha](https://www.wolframalpha.com/) (web-based math knowledge base / solver)
+* [ProGenViz](https://turboshook.itch.io/progenviz) (tool for visualizing procedural animation)
+* [Noclip](https://noclip.website/) (inspection tool for levels of commercial games)
 
 # Accessibility / UI
 * [Game UI Database](https://www.gameuidatabase.com/) (collection of UI examples for games)
@@ -189,6 +193,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Inkscape](https://inkscape.org/) (SVG/Vector Graphics Tool)
 * [PixieEditor](https://pixieditor.net/) (versatile FOSS 2D Graphic Editor)
 * [GodSVG](https://github.com/MewPurPur/GodSVG) (web-based SVG Editor)
+* [NormalPainter](https://winteralexander.itch.io/normalpainter) (tool for editing normal maps in 2D)
 * [Spacescape](http://alexcpeterson.com/spacescape/) (Skyboxes)
 * [PhotoPea](https://www.photopea.com/) (web-based PSD editor)
 * [Paint.NET](http://www.getpaint.net/) (Image Editor, Windows only)
@@ -203,6 +208,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [GrafX2](http://grafx2.chez.com/) (256-color Painting Program)
 * [Pixelorama](https://orama-interactive.itch.io/pixelorama) (Pixelart)
 * [Pixelate](https://www.scenario.com/features/pixelate) (Pixelart Converter)
+* [Tilf](https://github.com/danterolle/tilf) (Pixel Editor)
 * [Pyxeledit](https://pyxeledit.com/) (Pixel Editor)
 * [Pixelover](https://pixelover.io/) (Pixelart Converter and Animator, $${\color{red}paid}$$)
 
@@ -215,9 +221,10 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [tilesplit](https://github.com/morganholly/tilesplit) (Tilesheet Splitter)
  
 ## 3D
-* [Blender](http://www.blender.org) (Open Source 3D Creation Suite)
-  - [gret](https://github.com/greisane/gret) (a set of blender tools as addon)
-  - [jbake-tools](https://github.com/jayanam/jbake-tools) (blender low-poly baking addon)
+* [Blender](http://www.blender.org) (FOSS 3D creation Suite)
+  - [gret](https://github.com/greisane/gret) (a set of Blender tools as addon)
+  - [jbake-tools](https://github.com/jayanam/jbake-tools) (Blender low-poly baking addon)
+* [Wings 3D](https://www.wings3d.com) (FOSS Subdivision Modelling Tool)
 * [MakeHuman](http://www.makehumancommunity.org/)
 * [Vectary](https://www.vectary.com/) (web-based 3D modeling)
 * [womp](https://womp.com/) (web-based 3D modeling)
@@ -239,9 +246,10 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Material Maker](https://rodzilla.itch.io/material-maker) (3D Texture Generator / Painter)
 * [Texture Generator Online](https://cpetry.github.io/TextureGenerator-Online/) (web-based Texture Generator)
 * [HDRI To Cubemap](https://matheowis.github.io/HDRI-to-CubeMap/)
-* [Materialize](https://www.boundingboxsoftware.com/materialize/) (Create Textures)
-* [Laigter](https://azagaya.itch.io/laigter) (Create Textures)
+* [Materialize](https://www.boundingboxsoftware.com/materialize/) (create Textures)
+* [Laigter](https://azagaya.itch.io/laigter) (create Textures)
 * [NormalMap-Online](https://cpetry.github.io/NormalMap-Online/) (web-based Normal Map Generator)
+* [Seamless Pattern Generator](https://www.laurentvw.com/tools/seamless-pattern-generator/) (web-based pattern placement tool for seamless textures)
 * [Yoink](https://realduende.itch.io/yoink) (Texture Ripping/Processing, $${\color{red}paid}$$)
 * [Armor Paint](https://armorpaint.org/) (3D PBR Texture Painting, $${\color{red}paid}$$)
 
@@ -306,6 +314,8 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [SoundOfText](https://soundoftext.com/) (Text-To-Speech)
 * [SoundThread](https://github.com/j-p-higgins/SoundThread) (node-based Renderer for "CDP" Audio Tools)
 * [Sonic Visualizer](https://www.sonicvisualiser.org/) (Audio Analysis Tool, e.g. with Pitch Detection via Vamp Plugins)
+* [Sound eXchange (SoX)](https://sourceforge.net/projects/sox/) (Audio format conversion & effects via command line) 
+* [Open-Unmix](https://github.com/sigsep/open-unmix-pytorch) (Audio track separation / splitter)
 * [Google AI Sound Maker](https://experiments.withgoogle.com/ai/sound-maker/view/) (Music / SFX with Machine Learning) 
 
 ### Recording
