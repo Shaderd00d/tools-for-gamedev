@@ -103,6 +103,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Onym](https://guide.onym.co) (a set of tools for naming stuff)
 
 ## Level Design
+* [TrenchBroom](https://trenchbroom.github.io/) (FOSS Level Editor)
 * [Tiled](http://www.mapeditor.org/) (Tile Editor)
 * [Level Designer Toolkit](https://ldtk.io/) (FOSS 2D Level Design Tool)
 * [Ogmo-Editor](https://ogmo-editor-3.github.io/) (Level Editor)
