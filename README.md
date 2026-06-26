@@ -173,6 +173,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [WolframAlpha](https://www.wolframalpha.com/) (web-based math knowledge base / solver)
 * [ProGenViz](https://turboshook.itch.io/progenviz) (tool for visualizing procedural animation)
 * [Noclip](https://noclip.website/) (inspection tool for levels of commercial games)
+* [DevDocs](https://devdocs.io/) (a huge collection of APIs / Documentation for a lot of tools/frameworks/language in development)
 
 # Accessibility / UI
 * [Game UI Database](https://www.gameuidatabase.com/) (collection of UI examples for games)
@@ -284,6 +285,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Rickrack](https://github.com/eigenmiao/Rickrack) (FOSS color palette generator)
 * [Color Palettes](https://meodai.github.io/poline/) (esoteric color palette tool)
 * [Color Blender](https://meyerweb.com/eric/tools/color-blend/) (blend two colors)
+* [Mokole's Palette Tool](https://mokole.com/palette.html) (generates color palettes with distinct colors)
 
 ## Various
 * [Shoebox](http://renderhjs.net/shoebox/) (collection of 2D & UI tools)
